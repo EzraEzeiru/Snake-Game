@@ -12,3 +12,5 @@ This document contains code that increments the score by 1 as soon as the snake 
 This document contains code that is responsible for moving the snake using the listen() function in turtle. It
 listens for keyboard press and moves the snake accordingly. It is also responsible for incrementing the length of the snake as the snake comes in contact with food.
 
+# data.txt
+This is a text file that stores the highest score from the game. It compares the current score with the highest score in the text file and replaces it if current score is greater than high score. 
